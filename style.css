@@ -8,7 +8,7 @@ p {
  margin: 0 auto;
 }
 
-h1, header {
+h1, header, h3 {
  font-family: 'arial black', sans-serif;
 }
 
