@@ -11,3 +11,8 @@ p {
 h1, header {
  font-family: 'arial black', sans-serif;
 }
+
+a {
+ font-family: 'arial', sans-serif;
+ text-decoration: none;
+}
