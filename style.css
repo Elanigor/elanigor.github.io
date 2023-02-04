@@ -8,16 +8,23 @@ p {
  margin: 0 auto;
 }
 
-h1, h2 {
+h1 {
  font-family: 'arial black', sans-serif;
  text-align: center;
+ font-size: 40px;
+}
+
+h2 {
+ font-family: 'arial black', sans-serif;
+ text-align: center;
+ font-size: 30px;
+}
+
+h3 {
+ font-family: 'arial black', sans-serif;
 }
 
 a {
  font-family: 'arial', sans-serif;
  text-decoration: none;
-}
-
-h3 {
- font-family: 'arial black', sans-serif;
 }
