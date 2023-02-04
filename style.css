@@ -30,5 +30,6 @@ a {
 }
 
 li {
- display: inline-block;
+ display: table;
+ text-align: center;
 }
