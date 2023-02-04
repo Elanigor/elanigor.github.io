@@ -28,3 +28,7 @@ a {
  font-family: 'arial', sans-serif;
  text-decoration: none;
 }
+
+li {
+ display: inline-block;
+}
