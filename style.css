@@ -8,11 +8,16 @@ p {
  margin: 0 auto;
 }
 
-h1, header, h3 {
+header, h3 {
  font-family: 'arial black', sans-serif;
 }
 
 a {
  font-family: 'arial', sans-serif;
  text-decoration: none;
+}
+
+h1 {
+ font-family: 'arial black', sans-serif;
+ text-align: center;
 }
