@@ -34,3 +34,9 @@ a {
  padding: 5px;
  font-family: 'courier new', sans-serif;
 }
+
+."tab descriptor" {
+ padding: 2px;
+ font-family: 'courier-new', sans-serif;
+ font-size: 10px;
+}
