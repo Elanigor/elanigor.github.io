@@ -1,12 +1,13 @@
 * {
  /* Universal code, can be specified and overwritten */
- /* padding: 20px; */
+ margin: 0 auto;
 }
 
 p {
  font-family: 'arial', sans-serif;
  margin: 0 auto;
  font-size: 20px;
+ padding: 20px;
 }
 
 h1 {
@@ -32,8 +33,4 @@ a {
 
 li {
  padding: 0px;
-}
-
-strong {
- padding 0px;
 }
