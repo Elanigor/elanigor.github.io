@@ -30,13 +30,10 @@ a {
  text-decoration: none;
 }
 
-.tab {
- padding: 5px;
- font-family: 'courier new', sans-serif;
+li {
+ padding: 0px;
 }
 
-."tab descriptor" {
- padding: 2px;
- font-family: 'courier-new', sans-serif;
- font-size: 10px;
+strong {
+ padding 0px;
 }
